@@ -1,9 +1,7 @@
-# MRI_Brain_Image_Processing
-
-Image Processing
-                                               M. Boddam, E. Lockhart, D. Toghani
-Bioinstrumentation Laboratory
-Department of Bioengineering, University of Washington, Seattle
+# MRI Image Processing
+#### M. Boddam, E. Lockhart, D. Toghani
+#### Bioinstrumentation Laboratory
+#### Department of Bioengineering, University of Washington, Seattle
 
 ## Introduction
 Presently, there are multiple ways to image a living being’s internal organs, namely imaging with x-rays, computed tomography, nuclear medicine, ultrasound, magnetic resonance, and more. In this lab report, our goal is to explore and understand magnetic resonance image processing techniques. Most of the techniques we use below can be applied to images from other modalities too. Following is a description of the processing technique.
